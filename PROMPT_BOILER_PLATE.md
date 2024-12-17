@@ -1,3 +1,7 @@
+## About DPIP prompts
+
+_DPIP prompts are part of a service called submit.as and allows everyone to contribute their thoughts to this open access blog available on ActivityPub instances such as Mastodon. We look forward to reading and sharing all that contribute their wriitng._
+
 ## Help
 
 Blog responses currently need to be written in markdown, you can find help on writing in this format on the [markdown guide](https://www.markdownguide.org/cheat-sheet/).
